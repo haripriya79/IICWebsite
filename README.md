@@ -32,7 +32,7 @@ $ cd backend
 # start the backend server
 $ npm start
 # Go to frontend
-$ cd frondend
+$ cd frontend
 # start the frontend server
 $ npm start
 
