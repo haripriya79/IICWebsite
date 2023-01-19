@@ -20,7 +20,6 @@ IICWebsite is sample web platform for Innovation and Inncubation center at Unive
 
 <h1 id="setup">Setup</h1>
 
-You need to have a Goodreads account in order to use to API
 
 ```ruby
 # Clone this repository
