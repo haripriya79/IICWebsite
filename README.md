@@ -3,7 +3,9 @@
 
 <h1 id="overview">Overview</h1>
 <p align="left">
-IICWebsite is sample web platform for Innovation and Inncubation center at University.
+<p> Innovation & Inncubation Center is web-based platform for promoting and supporting innovation and entrepreneurship within a university. It can provides information, resources,
+                                                and opportunities for those interested in getting involved, as well as a platform for showcasing the work of the center and connecting with potential partners and collaborators.
+                                            </p>
 </p>
 
 
